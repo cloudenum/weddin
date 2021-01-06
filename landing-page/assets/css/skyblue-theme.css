@@ -2063,6 +2063,67 @@ span.os-version {
   font-size: 5.625rem;
 } /* 90px */
 
+.ico-20 [class*="fas"]:before,
+.ico-20 [class*="fas"]:after {
+  font-size: 1.25rem;
+} /* 20px */
+.ico-25 [class*="fas"]:before,
+.ico-25 [class*="fas"]:after {
+  font-size: 1.5625rem;
+} /* 25px */
+.ico-30 [class*="fas"]:before,
+.ico-30 [class*="fas"]:after {
+  font-size: 1.875rem;
+} /* 30px */
+.ico-35 [class*="fas"]:before,
+.ico-35 [class*="fas"]:after {
+  font-size: 2.1875rem;
+} /* 35px */
+.ico-40 [class*="fas"]:before,
+.ico-40 [class*="fas"]:after {
+  font-size: 2.5rem;
+} /* 40px */
+.ico-45 [class*="fas"]:before,
+.ico-45 [class*="fas"]:after {
+  font-size: 2.8125rem;
+} /* 45px */
+.ico-50 [class*="fas"]:before,
+.ico-50 [class*="fas"]:after {
+  font-size: 3.125rem;
+} /* 50px */
+.ico-55 [class*="fas"]:before,
+.ico-55 [class*="fas"]:after {
+  font-size: 3.4375rem;
+} /* 55px */
+.ico-60 [class*="fas"]:before,
+.ico-60 [class*="fas"]:after {
+  font-size: 3.75rem;
+} /* 60px */
+.ico-65 [class*="fas"]:before,
+.ico-65 [class*="fas"]:after {
+  font-size: 4.0625rem;
+} /* 65px */
+.ico-70 [class*="fas"]:before,
+.ico-70 [class*="fas"]:after {
+  font-size: 4.375rem;
+} /* 70px */
+.ico-75 [class*="fas"]:before,
+.ico-75 [class*="fas"]:after {
+  font-size: 4.6875rem;
+} /* 75px */
+.ico-80 [class*="fas"]:before,
+.ico-80 [class*="fas"]:after {
+  font-size: 5rem;
+} /* 80px */
+.ico-85 [class*="fas"]:before,
+.ico-85 [class*="fas"]:after {
+  font-size: 5.3125rem;
+} /* 85px */
+.ico-90 [class="fas"]:before,
+.ico-90 [class="fas"]:after {
+  font-size: 5.625rem;
+} /* 90px */
+
 /*------------------------------------------*/
 /*   PNG ICONS SETTINGS
 /*------------------------------------------*/
@@ -6721,6 +6782,7 @@ select:-webkit-autofill:focus {
   border: 1px solid green;
   -webkit-text-fill-color: #555;
   -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+  box-shadow: 0 0 0px 1000px #fff inset;
   transition: background-color 5000s ease-in-out 0s;
 }
 
